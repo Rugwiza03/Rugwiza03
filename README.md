@@ -45,5 +45,8 @@
 ### GitHub Stats:
 ![Rugwiza03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rugwiza03&show_icons=true&theme=dark&count_private=true)
 
+### Total Contributions:
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Rugwiza03&theme=dark)
+
 ### Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugwiza03&layout=compact&theme=dark)
