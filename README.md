@@ -1,10 +1,8 @@
  ### Hi 👋, I'm Ndayishimiye Adolphe
-
-                                                                      **Software Developer**
-
-                                                              🔭 I’m currently working at **BKG Insurance**
-
-                                                                    🌍 Based in **Kigali, Rwanda**
+ 
+ **Software Developer**
+ 🔭 I’m currently working at **BKG Insurance
+ 🌍 Based in **Kigali, Rwanda**
                                                                     
  
 ### Skills:
