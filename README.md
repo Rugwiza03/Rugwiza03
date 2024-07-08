@@ -3,7 +3,7 @@
  **Software Developer**
  
  🔭 I’m currently working at **BKG Insurance
- 🌍 Based in **Kigali, Rwanda**
+   🌍 Based in **Kigali, Rwanda**
                                                                     
  
 ### Skills:
