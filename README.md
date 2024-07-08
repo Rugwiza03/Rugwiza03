@@ -1,12 +1,17 @@
  ### Hi 👋, I'm Ndayishimiye Adolphe
  
  **Software Developer**
+ 
  🔭 I’m currently working at **BKG Insurance
  🌍 Based in **Kigali, Rwanda**
                                                                     
  
 ### Skills:
-- REACT/JS/ HTML/ CSS/ Next.js
+- REACT
+- JS
+-  HTML
+-  CSS
+-  Next.js
 
 📫 How to reach me:
 - Email: [ndayishimiyeado03@gmail.com](mailto:ndayishimiyeado03@gmail.com)
