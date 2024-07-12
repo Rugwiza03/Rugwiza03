@@ -18,7 +18,7 @@
 - LinkedIn: [https://bit.ly/3zuWYhH](https://bit.ly/3zuWYhH)
 
 🎮 Fun fact: I like Basketball 
- ### 🏀 
+ ###🏀 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3zuWYhH)
 
