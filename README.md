@@ -42,7 +42,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 
-### GitHub Stats:
+###   GitHub Stats:
 ![Rugwiza03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rugwiza03&show_icons=true&theme=radical&count_private=true)
 
 ### Total Contributions:
