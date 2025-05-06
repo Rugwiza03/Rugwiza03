@@ -1,73 +1,59 @@
-### Hi there 👋, I'm Ndayishimiye Adolphe
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-banner-image-url.com/banner.png" alt="Ndayishimiye Adolphe Banner" />
+</p>
 
-🚀 **Software Developer | Problem Solver | Tech Enthusiast**
-
-🌍 Based in **Kigali, Rwanda**
-
-🔭 **Current roles:**  
-- 🏢 **Limoz Rwanda** – Driving innovation in logistics tech  
-- 🏢 **Gorilland** – Building software for conservation and tourism  
-
-💼 **Previously at:**  
-- 🏢 **BKG Insurance (BKGI)** – Developed cutting-edge insurance solutions
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7A&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Ndayishimiye+Adolphe;Full-stack+Developer;React+%7C+Node.js+%7C+DevOps+Engineer;Building+for+impact+in+Rwanda" />
+</p>
 
 ---
 
-### 🛠️ Skills & Technologies:
-- **Frontend:** React ⚛️ | Next.js 🚀 | JavaScript (ES6+) 🌟 | HTML5 🛠️ | CSS3 🎨 | Tailwind CSS 💨
-- **Backend:** Node.js 🌿 | Express.js ⚡ | MongoDB 🍃 | MySQL 🗄️
-- **DevOps & Tools:** Git 🔧 | GitHub 🐙 | Docker 🐳 | Kubernetes ☸️ | Jenkins 🔗 | AWS ☁️ | Azure 🔷 | Linux 🐧 | VS Code 🖥️
+### 🏢 **Where I Work**
+- 🚚 **Limoz Rwanda** → Innovating logistics & transport systems  
+- 🦍 **Gorilland** → Building tools for conservation & tourism  
+- 🛡 **BKG Insurance (BKGI)** → Delivering modern insurance platforms  
 
 ---
 
-### 📬 How to reach me:
-- 📧 Email: [ndayishimiyeado03@gmail.com](mailto:ndayishimiyeado03@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ndayishimiye-adolphe](https://bit.ly/3zuWYhH)
+### 🌟 **Featured Projects**
+- 🔗 [**Logistics Web App**](https://github.com/Rugwiza03/logistics-app) → React, Node.js, MongoDB  
+- 🔗 [**Tourism Conservation Portal**](https://github.com/Rugwiza03/gorilland-portal) → Next.js, Express  
+- 🔗 [**Insurance Certificate System**](https://github.com/Rugwiza03/bkgi-certificates) → React, MySQL  
 
 ---
 
-### 🎮 Fun Facts:
-- 🏀 Passionate **basketball** fan  
-- 🌱 Always learning new tech to level up  
-- 💡 Love solving tough challenges with clean, efficient code
+### 💼 **Tech Toolbox**
+| Frontend            | Backend               | DevOps                   | Tools                  |
+|---------------------|-----------------------|--------------------------|------------------------|
+| React, Next.js, Tailwind | Node.js, Express, MongoDB, MySQL | Docker, Kubernetes, Jenkins, AWS, Azure | Git, GitHub, VS Code, Linux |
 
 ---
 
-### 🌟 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3zuWYhH)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rugwiza03)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndayishimiyeado03@gmail.com)
+### 🏆 **GitHub Trophies**
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rugwiza03&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 🧰 Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-
----
-
-### 📈 GitHub Stats:
-![Rugwiza03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rugwiza03&show_icons=true&theme=radical&count_private=true)
-
-### 🔥 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rugwiza03&theme=radical)
-
-### 📊 Top Languages:
+### 📈 **GitHub Stats**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rugwiza03&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugwiza03&layout=compact&theme=radical)
 
 ---
 
-⭐ **Let’s connect, collaborate, and build something amazing together!**
+### 🎮 **Beyond Code**
+🏀 I’m a huge basketball fan — I follow the NBA, and I’m inspired by players like LeBron James, Stephen Curry, and Anthony Edwards.  
+When I’m not coding, you’ll probably find me catching a game or improving my shot!
+
+---
+
+### 🌐 **Let’s Connect**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3zuWYhH)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndayishimiyeado03@gmail.com)
+
+---
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Rugwiza03)
+
+⭐ **Thanks for visiting! Let’s build something amazing together.**
