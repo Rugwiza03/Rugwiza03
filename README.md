@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Ndayishimiye Adolphe Banner" />
+   <img src="https://your-banner-image-url.com/banner.png" alt="Ndayishimiye Adolphe Banner" />
 </p>
 
 <!-- Animated Typing -->
