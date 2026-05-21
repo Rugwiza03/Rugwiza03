@@ -13,7 +13,7 @@
 ### 🏢 **Where I Work**
 - 🚚 **Limoz Rwanda** → Innovating logistics & transport systems  
 - 🦍 **Gorilland** → Building tools for conservation & tourism  
-- 🛡 **BKG Insurance (BKGI)** → Delivering modern insurance platforms  
+
 
 ---
 
